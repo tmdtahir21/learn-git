@@ -1,3 +1,3 @@
 # learn-git
 Learning Git and GitHub
-Author - t_md_tahir_21
+Author - t_md_tahir_21 (Mohammed Tahir)
